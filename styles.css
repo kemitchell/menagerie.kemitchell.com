@@ -1,0 +1,15 @@
+body {
+  line-height: 1.4;
+  font-family: sans-serif;
+}
+
+body > header, body > main, body > footer {
+  max-width: 45rem;
+  margin: 1rem auto;
+}
+
+pre, blockquote {
+  margin: 1rem;
+  border: 1px solid black;
+  padding: 1rem;
+}
