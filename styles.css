@@ -8,7 +8,7 @@ body > header, body > main, body > footer {
   margin: 1rem auto;
 }
 
-pre, blockquote {
+main > pre, main > blockquote {
   margin: 1rem;
   border: 1px solid black;
   padding: 1rem;
